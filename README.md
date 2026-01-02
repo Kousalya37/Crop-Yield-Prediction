@@ -19,11 +19,14 @@ By analyzing these parameters, the system provides data-driven insights to help 
 
 **Tech Stack**
 -Programming Language: Python
+
 -Libraries/Frameworks:
 -Scikit-learn (ML algorithms)
 -Pandas & NumPy (data preprocessing)
 -Random Forest Classification, XGBoost
+
 -Environment: VS Code
+
 -Dataset: Agricultural datasets containing soil, weather, and crop yield records (can be customized).
 
 **Workflow**
